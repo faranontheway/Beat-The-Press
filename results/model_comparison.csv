@@ -1,0 +1,3 @@
+Model,ROC-AUC,Brier
+Old: logistic regression (balanced),0.685,0.224
+New: XGBoost + pressure context,0.828,0.095

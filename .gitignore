@@ -1,0 +1,14 @@
+# StatsBomb data cache (~1 GB, re-downloaded automatically by the notebook)
+sb_data/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
